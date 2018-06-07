@@ -2,7 +2,7 @@
     "name": "acharluk-extension-pack",
     "displayName": "ACharLuk's Extension Pack",
     "description": "My own extension pack for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "ACharLuk",
     "engines": {
         "vscode": "^1.24.0"
