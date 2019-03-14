@@ -2,7 +2,7 @@
     "name": "acharluk-extension-pack",
     "displayName": "ACharLuk's Extension Pack",
     "description": "My own extension pack for Visual Studio Code",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "ACharLuk",
     "engines": {
         "vscode": "^1.24.0"
@@ -17,11 +17,11 @@
         "ACharLuk.easy-cpp-projects",
         "ACharLuk.luna-vscode",
         "CoenraadS.bracket-pair-colorizer",
-        "eg2.tslint",
+        "ms-vscode.vscode-typescript-tslint-plugin",
         "ms-vscode.cpptools",
         "ritwickdey.LiveServer",
         "robertohuertasm.vscode-icons",
         "teabyii.ayu",
-        "Unity.unity-debug"
+        "johnpapa.vscode-peacock"
     ]
 }
